@@ -1,1 +1,110 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #00FFA7;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #AAFBDF;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 20px;
+  text-align: justify;
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  /*text-shadow: 1px 1px 1px #222;*/
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+   font-family: "Comic Sans MS", cursive, sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0;
+  font-weight: bold;
+ 
+}
+#nav-list a {/*inside the collapasble menu*/
+  color: #951C49;
+  text-align: center;
+  background-color: white;
+   border-bottom: 1px black solid;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/* END HEADER */
+/*Main Content*/
+.heading-title{
+  color: black;
+
+}
+.heading-title h1{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 3em;
+}
+#main-content{
+  width: 100%;
+}
+#chicken, #beef, #sushi {
+  border-radius: 5px;
+  padding: 0 10px 0 10px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  height: 250px;
+  width: 100%;
+  margin-bottom: 5px;
+  position: relative;
+ color: black;
+  overflow: auto;
+  overflow-x: hidden;
+  background-color: #aafbed;
+
+}
+#chicken span, #beef span, #sushi span {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  margin-top: 5px;
+  text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+    color: #black;
+  text-transform: uppercase;
+  /*background-color: #000;
+  
+  font-size: 1.6em;
+  opacity: .8;*/
+}
+#chicken p,#beef p,#sushi p{
+  margin-top: 30px;
+}
+.row{
+  margin: 20px;
+}
 
