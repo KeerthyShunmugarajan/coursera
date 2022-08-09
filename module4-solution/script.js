@@ -20,7 +20,7 @@ Hello Larry
 Hello Paula
 Hello Laura
 Good Bye Jim
-
+*/
 
 
 var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
