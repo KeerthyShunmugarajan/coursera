@@ -47,5 +47,6 @@ console.log(firstLetter);
     byeSpeaker.speak(names[i]);
   } else {
     helloSpeaker.speak(names[i]);
+  
   }
 }
