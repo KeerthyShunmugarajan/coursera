@@ -4,3 +4,4 @@ Contains the solutions to the assignments of John Hopkins University's HTML, CSS
 1. Module 2 : <a href="https://KeerthyShunmugarajan.github.io/coursera/module2-solution" target="_blank">Simple Responsive Framework.</a>
 2. Module 3 : <a href="https://KeerthyShunmugarajan.github.io/coursera/module3-solutions" target="_blank">Bootstrap Responsive Framework.</a>
 3. Module 4 : <a href="https://keerthyshunmugarajan.github.io/coursera/module4-solution" target="_blank">Namespace</a>
+4. Module 5 : <a href="https://keerthyshunmugarajan.github.io/coursera/module5-solutions" target="_blank">Module 5 solutions</a>
